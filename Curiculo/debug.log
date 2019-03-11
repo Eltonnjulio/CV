@@ -1,0 +1,4 @@
+[0228/075759.082:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0228/075759.084:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0228/075759.084:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0228/075759.084:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
